@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaimundoVillarroel
+- 👋 Hi, I’m @shinmo
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on game dev
